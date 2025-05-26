@@ -1,42 +1,37 @@
-<!-- Profile Header -->
-<h1 align="center">Hi Everyone! 👋</h1>
-<h3 align="center">I'm Kunal — A passionate Developer, Designer & Curious Technologist 🚀</h3>
-
-
----
-
-### 🚀 About Me
-
-- 🧠 Currently focused on: **Building beautiful UIs and full-stack web apps**
-- 🌱 Learning: **TypeScript, Next.js, AI APIs (OpenAI, Gemini)**
-- 🛠 I work with: **React, Tailwind, MongoDB, Figma, Node.js**
-- 👯 Open to: **Collaborations on design systems & web products**
-- 📫 Reach me: **[your.email@example.com]**
-- 🎨 Fun fact: *I once built a web app from scratch in 48 hours!*
-
----
-
-### 🧰 Tools, Tech & Frameworks
+<!-- GitHub Profile README for @KunalSingh72 -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,bootstrap,figma,ai,git,github,vscode,python,c,cpp,java,pytorch,tensorflow," />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Namaste+%F0%9F%99%8F%2C+I'm+Kunal+Singh!;Crafting+code+with+creativity...;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📌 Current Goals
+<div align="center">
 
-- Build modern UI/UX systems with accessibility in mind ♿
-- Contribute to open-source more consistently 🤝
-- Learn backend deployment (VPS, Docker, CI/CD) 🧱
-- Explore AI integrations in frontend workflows 🤖
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kunal%20Singh&fontAlign=38&fontColor=ffffff&fontSize=40&desc=Web%20%26%20AI%20Developer%20+%20Designer&descAlign=62&descAlignY=65&color=gradient" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" /> </p>
+</div>
 
+---
 
-### 🏆 GitHub Trophies
+### 🎨 Design meets Logic. Pixels meet Algorithms.
+
+> Bridging creativity and functionality through code and design.
+
+---
+
+### 🔧 Tech Arsenal
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KunalSingh72&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mongodb,java,python,c,mysql,tailwind,bootstrap,git,github,vscode,jupyter,numpy,pandas,tensorflow,figma,illustrator" />
 </p>
 
+---
+
+### 🛠 Projects are my Playground
+
+```text
+📌 Frontend:  Sleek UI/UX crafted with Tailwind, React & Figma.
+⚙️ Backend:   Scalable APIs with Express.js & Node.js.
+🧠 AI/ML:     Models trained with TensorFlow, Jupyter, Pandas & NumPy.
+🖌 Design:    Visuals built using Figma & Illustrator.
