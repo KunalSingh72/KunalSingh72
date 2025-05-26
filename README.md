@@ -1,37 +1,84 @@
-<!-- GitHub Profile README for @KunalSingh72 -->
+<!-- GitHub Profile README | @KunalSingh72 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Namaste+%F0%9F%99%8F%2C+I'm+Kunal+Singh!;Crafting+code+with+creativity...;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
-</p>
-
----
-
+<!-- HEADER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kunal%20Singh&fontAlign=38&fontColor=ffffff&fontSize=40&desc=Web%20%26%20AI%20Developer%20+%20Designer&descAlign=62&descAlignY=65&color=gradient" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Kunal%20Singh&fontSize=36&fontColor=ffffff&desc=Fullstack%20Developer%20|%20AI%20Enthusiast%20|%20Design%20Lover&descAlign=50&descAlignY=70" />
 </div>
 
 ---
 
-### 🎨 Design meets Logic. Pixels meet Algorithms.
+## 👋 About Me
 
-> Bridging creativity and functionality through code and design.
+Hey! I'm **Kunal**, a fullstack developer who enjoys building clean, efficient, and user-focused digital experiences. Whether it's crafting modern web interfaces, working with AI models, or playing with design tools—I'm all about bringing ideas to life through code and creativity.
+
+- 🧠 Currently exploring AI integrations in everyday apps.
+- 🎨 Big fan of intuitive design and minimal UI/UX.
+- 🌱 Always learning — currently deep-diving into TypeScript and AI pipelines.
+- 📌 Let’s connect and build something awesome!
 
 ---
 
-### 🔧 Tech Arsenal
+## 🚀 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mongodb,java,python,c,mysql,tailwind,bootstrap,git,github,vscode,jupyter,numpy,pandas,tensorflow,figma,illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="Adobe Illustrator" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
 </p>
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KunalSingh72&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh72&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="48%" />
+</div>
 
 ---
 
-### 🛠 Projects are my Playground
+## 🏆 GitHub Achievements
 
-```text
-📌 Frontend:  Sleek UI/UX crafted with Tailwind, React & Figma.
-⚙️ Backend:   Scalable APIs with Express.js & Node.js.
-🧠 AI/ML:     Models trained with TensorFlow, Jupyter, Pandas & NumPy.
-🖌 Design:    Visuals built using Figma & Illustrator.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KunalSingh72&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=10" />
+</p>
+
+<!-- ---
+
+## 🎯 Focus Areas
+
+- Fullstack Web Development  
+- AI-powered Applications  
+- UI/UX Design Systems  
+- Dev Productivity Tools  
+- Open Source Projects  
+
+--- -->
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" height="2" />
+    <br />
+    <strong>Designed by KunalSingh72 — All code, all creativity.</strong>
+</p>
