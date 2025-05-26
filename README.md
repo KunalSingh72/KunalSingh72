@@ -1,40 +1,42 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A Passionate [Your Role] | Creative Technologist | Lifelong Learner</h3>
+<h1 align="center">Hi Everyone! 👋</h1>
+<h3 align="center">I'm Kunal — A passionate Developer, Designer & Curious Technologist 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+love+building+cool+things+🚀;Let’s+create+something+awesome!&center=true&width=440&height=45&color=FF6A00&vCenter=true&pause=1000&size=22" />
-</p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **[Your Project/Goal]**
-- 🌱 I’m learning: **[Tools/Techs you're learning]**
-- 👯 I’m looking to collaborate on: **Open Source / Dev Projects / UI/UX challenges**
-- 💬 Ask me about: **Frontend, Design Systems, JS frameworks, or Building Products**
-- 🧠 Interests: **A.I., Web Development, UI/UX Design, Open Source**
-- 🎨 I also enjoy: **Digital Art, Creative Coding, Typography, and Animation**
-- 📫 Reach me at: **[your.email@example.com]**
-- 🧳 Fun fact: *I once built a full-stack app in 48 hours during a hackathon!*
+- 🧠 Currently focused on: **Building beautiful UIs and full-stack web apps**
+- 🌱 Learning: **TypeScript, Next.js, AI APIs (OpenAI, Gemini)**
+- 🛠 I work with: **React, Tailwind, MongoDB, Figma, Node.js**
+- 👯 Open to: **Collaborations on design systems & web products**
+- 📫 Reach me: **[your.email@example.com]**
+- 🎨 Fun fact: *I once built a web app from scratch in 48 hours!*
 
 ---
 
-### 🧰 Tools, Tech & Frameworks I Use
+### 🧰 Tools, Tech & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,figma,ps,ai,xd,git,github,tailwind,bootstrap,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,bootstrap,figma,ai,git,github,vscode,python,c,cpp,java,pytorch,tensorflow," />
 </p>
 
 ---
 
-### 🧠 Current Focus
+### 📌 Current Goals
 
-```yaml
-- Improving my UI/UX design skills 🎨
-- Contributing to open-source 💻
-- Learning backend tech and deployment workflows ☁️
-- Exploring ML & AI integration into frontend apps 🧠
+- Build modern UI/UX systems with accessibility in mind ♿
+- Contribute to open-source more consistently 🤝
+- Learn backend deployment (VPS, Docker, CI/CD) 🧱
+- Explore AI integrations in frontend workflows 🤖
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" /> </p>
+
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KunalSingh72&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=10" />
+</p>
+
