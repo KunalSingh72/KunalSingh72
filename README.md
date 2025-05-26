@@ -7,14 +7,14 @@
 
 ---
 
-## 👋 About Me
+## About Me 🦆
 
-Hey! I'm **Kunal**, a fullstack developer who enjoys building clean, efficient, and user-focused digital experiences. Whether it's crafting modern web interfaces, working with AI models, or playing with design tools—I'm all about bringing ideas to life through code and creativity.
+ Experimenting **Full Stack Development** with **Machine Learning** and **Artificial Intelligence**
 
-- 🧠 Currently exploring AI integrations in everyday apps.
-- 🎨 Big fan of intuitive design and minimal UI/UX.
-- 🌱 Always learning — currently deep-diving into TypeScript and AI pipelines.
-- 📌 Let’s connect and build something awesome!
+-  Exploring UI/UX 
+-  Experimenting AI 
+-  Learning Full Stack 
+
 
 ---
 
