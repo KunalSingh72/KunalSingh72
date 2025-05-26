@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kunal 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building creative and impactful projects. I enjoy turning ideas into reality using code and continuously learning new technologies.
 
