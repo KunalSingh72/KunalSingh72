@@ -45,7 +45,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunalSingh72&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&hide_title=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh72&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="48%" />
 </div>
 
